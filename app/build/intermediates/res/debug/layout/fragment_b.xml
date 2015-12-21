@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#000000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/table1"
+    android:stretchColumns="*">
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:text="Name"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF" />
+        <TextView
+
+            android:layout_height="wrap_content"
+            android:text="Department"
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF" />
+        <TextView
+
+            android:layout_height="wrap_content"
+            android:text="Salary"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+
+            android:textColor="#FFFFFF" />
+
+    </TableRow>
+
+
+</TableLayout><!-- From: file:/C:/Users/PANKHURI%20RASTOGI/AndroidStudioProjects/gail_project/app/src/main/res/layout/fragment_b.xml -->

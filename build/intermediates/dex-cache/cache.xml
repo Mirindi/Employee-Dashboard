@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\libs\mpandroidchartlibrary-2-1-0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e8e579486323fc12433aca39b93329498a3bbc2d">
+        <dex dex="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-1-0-2f85ceea5a50ab6ca39f00523bfdc5470a2ab518.jar" />
+    </item>
+    <item
+        jar="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\pre-dexed\debug\classes-13b747c21ce59fd9020d4afdf199377c7137a49f.jar" />
+    </item>
+    <item
+        jar="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\pre-dexed\debug\classes-deb517dadf704fdb71d6ac737e210eb999f7f156.jar" />
+    </item>
+    <item
+        jar="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-a4cf9ab1a0358415a1e95a6990202d1a543b6bc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PANKHURI RASTOGI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\PANKHURI RASTOGI\AndroidStudioProjects\gail_project\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-6ca2462bd1be9a00c1d231a7b9d14249d4e79ff6.jar" />
+    </item>
+
+</items>
